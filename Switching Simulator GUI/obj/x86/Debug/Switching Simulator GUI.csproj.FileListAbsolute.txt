@@ -1,0 +1,109 @@
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.pdb
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.exe
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.pdb
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.exe
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.pdb
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.pdb
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Main_Window.resources
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.exe
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.pdb
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.pdb
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Main_Window.resources
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe.config
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching_DB.mdf
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching_DB_log.ldf
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.NoiseAnalyser.resources
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.SwitchingTrajectory.resources
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Hysteresis.resources
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Shot_Noise_Tester.resources
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.csproj.ResolveComReference.cache
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Phase_Space_Psw.resources
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe.config
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.csproj.ResolveComReference.cache
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching_DB.mdf
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching_DB_log.ldf
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Hysteresis.resources
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.NoiseAnalyser.resources
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Phase_Space_Psw.resources
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Shot_Noise_Tester.resources
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.SwitchingTrajectory.resources
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Switching_Probability.resources
+C:\Users\Tom Physics\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Switching_Probability.resources
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe.config
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.csproj.ResolveComReference.cache
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.exe
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.pdb
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching_DB.mdf
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching_DB_log.ldf
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.pdb
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Hysteresis.resources
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.NoiseAnalyser.resources
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Phase_Space_Psw.resources
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Shot_Noise_Tester.resources
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.SwitchingTrajectory.resources
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Switching_Probability.resources
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Main_Window.resources
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tom\Desktop\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe.config
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.csproj.ResolveComReference.cache
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.exe
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.pdb
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching_DB.mdf
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching_DB_log.ldf
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.pdb
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Hysteresis.resources
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.NoiseAnalyser.resources
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Phase_Space_Psw.resources
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Shot_Noise_Tester.resources
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.SwitchingTrajectory.resources
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Switching_Probability.resources
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Main_Window.resources
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.csproj.GenerateResource.Cache
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe.config
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Interop.MLApp.dll
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.csproj.ResolveComReference.cache
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.exe
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\Switching Simulator GUI.pdb
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching_DB.mdf
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching_DB_log.ldf
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.exe
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Hysteresis.resources
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.NoiseAnalyser.resources
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Phase_Space_Psw.resources
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Shot_Noise_Tester.resources
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.SwitchingTrajectory.resources
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Switching_Probability.resources
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Main_Window.resources
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+\\TOM-PC\Users\Tom\Desktop\Research\Spin Torque Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Debug\Switching Simulator GUI.pdb
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Debug\WindowsFormsApplication1.Quality_Factor_Check.resources

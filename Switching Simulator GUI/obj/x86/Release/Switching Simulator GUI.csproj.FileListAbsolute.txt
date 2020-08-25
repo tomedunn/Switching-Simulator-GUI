@@ -1,0 +1,2 @@
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\bin\Release\Switching Simulator GUI.exe.config
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\Switching Simulator GUI\Switching Simulator GUI\obj\x86\Release\Switching Simulator GUI.csproj.ResolveComReference.cache
