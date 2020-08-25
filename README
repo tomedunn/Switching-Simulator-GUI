@@ -1,1 +1,18 @@
 This was a program I used as part of my graduate research. The program was originally written in C# using Visual Studio and included heavy integration with Matlab.
+
+The key file and fucntions in the program are
+
+ - Magnetic_Parameters.cs
+ - MersenneTwister.cs
+ - Magnetic_Simulator_Demag.cs
+   - Energy
+   - Noise
+     - Normal_Distribution
+   - RK42
+     - D_Phi2
+     - D_Theta2
+   - Coord_Correction
+
+The rest of the program is effectively there to plot results via Matlab.
+
+
